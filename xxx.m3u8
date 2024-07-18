@@ -188,6 +188,22 @@ http://cdn.adultiptv.net/blonde.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="成人频道",Asian
 http://cdn.adultiptv.net/asian.m3u8
 
-
+https://livear.cgtn.com/500a/prog_index.m3u8
+#EXTINF:-1 group-title="成人1",Русская 
+http://188.113.190.15/318/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="成人2",Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="成人3",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人4",Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人5",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8 
+#EXTINF:-1 group-title="成人6",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人7",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="成人8",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 
 
